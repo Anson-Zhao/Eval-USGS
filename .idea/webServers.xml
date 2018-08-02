@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3f47c148-0a7c-41ac-821b-5c08604f9379" name="evalusgs" url="http://eval.usgs.aworldbridgelabs.com">
+        <fileTransfer host="eval.usgs.aworldbridgelabs.com" port="5532" rootFolder="/var/www/evalusgs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="5532" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
