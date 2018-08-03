@@ -186,6 +186,13 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   }
 }
 
+@media (min-width: 1200px) {
+  #evavid1 {
+    padding-left:50px;
+    padding-right:50px;
+  }
+}
+
 .yes {
   word-wrap:break-word;
   text-align:left;
